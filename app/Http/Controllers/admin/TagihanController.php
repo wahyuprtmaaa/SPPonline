@@ -13,7 +13,7 @@ use Illuminate\Support\Facades\Log;
 
 class TagihanController extends Controller
 {
-    private $fonnteToken = "@SqS6rjK+-FMg8so1tU1";
+    private $fonnteToken = "#";
 
     public function index(Request $request)
     {
