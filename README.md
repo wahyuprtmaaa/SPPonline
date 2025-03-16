@@ -1,7 +1,3 @@
-Berikut adalah README untuk proyek **SPP Online** dalam format Markdown:  
-
----
-
 # 🏫 SPP Online - Sistem Pembayaran SPP Berbasis Laravel  
 
 ## 📌 Deskripsi  
