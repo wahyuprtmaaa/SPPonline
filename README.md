@@ -21,7 +21,7 @@
 
 ### **1. Clone Repository**  
 ```bash
-git clone https://github.com/username/SPP-Online.git
+git clone https://github.com/wahyuprtmaaa/SPP-Online.git
 cd SPP-Online
 ```
 
@@ -54,14 +54,11 @@ php artisan serve
 - **Password**: `admin123`  
 
 ## 📊 Tampilan Aplikasi  
-🖼️ _(Tambahkan screenshot dashboard atau halaman utama di sini)_  
+![Dashboard](https://raw.githubusercontent.com/wahyuprtmaaa/SPPonline/main/public/assets/images/screenshoot.png)
+
 
 ## 🤝 Kontribusi  
 Jika Anda ingin berkontribusi, silakan fork repository ini dan buat pull request!  
 
 ## 📜 Lisensi  
-Proyek ini dilisensikan di bawah **MIT License**.  
-
----
-
-Silakan ubah **"username"** di URL repository sesuai akun GitHub Anda. 🚀
+Proyek ini dilisensikan di bawah **MIT License**.
