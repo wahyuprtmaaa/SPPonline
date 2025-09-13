@@ -13,7 +13,7 @@ use Illuminate\Support\Facades\Log;
 
 class TagihanController extends Controller
 {
-    private $fonnteToken = "#";
+    private $fonnteToken = "WHATSAPP API FONNTE";
 
     public function index(Request $request)
     {
